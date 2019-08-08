@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Data.Rbac</id>
+    <version>2.2.0</version>
+    <description>Data.Rbac</description>
+    <authors>dc</authors>
+    <dependencies>
+      <dependency id="Data.MySql" version="2.2.1" />
+      <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="2.2.0" />
+      <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0" />
+      <dependency id="Pomelo.EntityFrameworkCore.MySql" version="2.1.4" />
+    </dependencies>
+  </metadata>
+</package>
